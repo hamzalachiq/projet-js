@@ -1,0 +1,39 @@
+#User{
+    align-items: center;
+    text-align: center;
+}
+.Label{
+    display: block;
+    text-align:center;
+    align-items: center;
+    
+}
+
+#confirmation{
+    margin-bottom: 9px;
+}
+.group{
+    width: 450px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#validation{
+    margin-top: 10px;
+    width: 450px;
+}
+
+
+/*#bgimg{
+    margin-top: 150px;
+    height: 500px;
+    width:  800px;
+    display: flex;
+}*/
+#blackd{
+    background-color: blue;
+    opacity: 0.33;
+    width: 600px;
+}
+#form{
+    background-color: rgba(248, 247, 216, 0.7);
+}
